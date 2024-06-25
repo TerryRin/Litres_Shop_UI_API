@@ -21,18 +21,7 @@
 
 
 ----
-### Используемый стэк:
-<img src="images/icons/python.png" width="50">
-<img src="images/icons/allure_report.png" width="50"> 
-<img src="images/icons/pytest.png" width="50"> 
-<img src="images/icons/allure_testops.png" width="50"> 
-<img src="images/icons/selene.png" width="50">
-<img src="images/icons/intellij_pycharm.png" width="50">
-<img src="images/icons/jenkins.png" width="50">
-<img src="images/icons/selenium.png" width="50"> 
-<img src="images/icons/selenoid.png" width="50"> 
-<img src="images/icons/tg.png" width="50">
-<img src="images/icons/GitHub.svg" width="50">
+### Используемый стэк:<img src="images/icons/python.png" width="50"><img src="images/icons/allure_report.png" width="50"><img src="images/icons/pytest.png" width="50"><img src="images/icons/allure_testops.png" width="50"><img src="images/icons/selene.png" width="50"><img src="images/icons/intellij_pycharm.png" width="50"><img src="images/icons/jenkins.png" width="50"><img src="images/icons/selenium.png" width="50"><img src="images/icons/selenoid.png" width="50"><img src="images/icons/tg.png" width="50"><img src="images/icons/GitHub.svg" width="50">
 
 ----
 ### Запуск тестов
