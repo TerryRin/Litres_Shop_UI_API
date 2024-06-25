@@ -1,0 +1,12 @@
+{
+    "status": 200,
+    "error": null,
+    "payload": {
+        "data": {
+            "added_art_ids": [
+                6375365
+            ],
+            "failed_art_ids": []
+        }
+    }
+}

@@ -1,0 +1,1 @@
+PUT https://api.litres.ru/foundation/api/cart/arts/add

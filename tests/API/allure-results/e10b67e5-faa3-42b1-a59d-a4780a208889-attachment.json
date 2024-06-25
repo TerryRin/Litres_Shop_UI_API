@@ -1,0 +1,29 @@
+{
+    "status": 200,
+    "error": null,
+    "payload": {
+        "data": [],
+        "extra": {
+            "counters": {
+                "all": 0,
+                "text_book": 0,
+                "audiobook": 0,
+                "person": 0,
+                "collection": 0,
+                "series": 0,
+                "genre": 0,
+                "tag": 0,
+                "podcast_episode": 0,
+                "podcast": 0,
+                "publisher": 0,
+                "books_filtered_by_libraries": 0
+            },
+            "pagination": {
+                "next_offset": null
+            },
+            "applied_correction": null
+        },
+        "facets": [],
+        "fast_facets": []
+    }
+}

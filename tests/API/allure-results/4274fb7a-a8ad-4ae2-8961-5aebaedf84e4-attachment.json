@@ -1,0 +1,19 @@
+{
+    "status": 422,
+    "error": {
+        "type": "ParamValidationError",
+        "title": "Validation error because of request parameters",
+        "detail": "Received a validation error while interpreting request parameters. See error_descriptions for details",
+        "error_descriptions": [
+            {
+                "loc": [
+                    "body",
+                    "art_ids",
+                    "0"
+                ],
+                "msg": "Input should be a valid integer, unable to parse string as an integer",
+                "type": "int_parsing"
+            }
+        ]
+    }
+}
