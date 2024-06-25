@@ -3,7 +3,6 @@ from selene import browser, have, be, by
 
 
 class FavoritesPage:
-
     def add_book_to_favorites(self):
         with (allure.step('Добавление книги в "Отложенное"')):
             browser.element(by.text('Отложить')).should(be.clickable).click()

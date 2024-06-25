@@ -21,9 +21,8 @@ def test_add_book_to_cart():
     validate(response.json(), book_cart)
     assert response.json()['payload']['data']['added_art_ids'] == art_ids
     assert response.json()['payload']['data']['failed_art_ids'] == []
-
-
 # pass
+
 @allure.epic('Cart API')
 @allure.feature("No book cart")
 @allure.label('api')
