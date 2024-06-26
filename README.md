@@ -51,11 +51,11 @@ pytest tests
 ### Отчет в Allure
 
 #### Общие результаты
-![This is an image](images/image/allure results.png)
+![This is an image](images/image/allure_results.png)
 #### Пример прохождения теста
-![This is an image](images/image/one test.png)
+![This is an image](images/image/one_test.png)
 ### Пример видео прохождения ui-автотеста
-![This is an gif](images/image/iu test.gif)
+![This is an gif](images/image/iu_test.gif)
 
 
 ----
