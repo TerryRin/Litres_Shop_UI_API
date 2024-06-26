@@ -26,12 +26,8 @@
 ----
 ### Запуск тестов
 ### Локально
-> Для локального запуска с дефолтными значениями необходимо выполнить команду:
+> Для локального запуска всех тестов выполнить команду:
 ```
-python -m venv .venv
-source .venv/bin/activate
-pip install poetry
-poetry install --no-root
 pytest tests
 ```
 
